@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chess-game-react/static/css/main.8662c8ad.css",
+    "main.js": "/chess-game-react/static/js/main.98d8ab1c.js",
+    "static/js/453.b6dfa29d.chunk.js": "/chess-game-react/static/js/453.b6dfa29d.chunk.js",
+    "static/media/q_w.png": "/chess-game-react/static/media/q_w.90ea1f818d437dfd3515.png",
+    "static/media/k_w.png": "/chess-game-react/static/media/k_w.1006ee3bdabe0624a88f.png",
+    "static/media/q_b.png": "/chess-game-react/static/media/q_b.6541345d478db76e3f39.png",
+    "static/media/n_w.png": "/chess-game-react/static/media/n_w.b3e6337ad72056aaf32f.png",
+    "static/media/b_w.png": "/chess-game-react/static/media/b_w.9be342f586e897bf61cf.png",
+    "static/media/n_b.png": "/chess-game-react/static/media/n_b.43f88cf2bd514550afb6.png",
+    "static/media/p_w.png": "/chess-game-react/static/media/p_w.b1ed1b22c6b83e5de637.png",
+    "static/media/k_b.png": "/chess-game-react/static/media/k_b.e2bdbb43386fb372d8dc.png",
+    "static/media/b_b.png": "/chess-game-react/static/media/b_b.376191e2f5dde2282c28.png",
+    "static/media/r_b.png": "/chess-game-react/static/media/r_b.bba372ed0c24c76699a8.png",
+    "static/media/p_b.png": "/chess-game-react/static/media/p_b.70207af1c8d90cda5bdc.png",
+    "static/media/r_w.png": "/chess-game-react/static/media/r_w.856798d150a6e6cb3442.png",
+    "index.html": "/chess-game-react/index.html",
+    "main.8662c8ad.css.map": "/chess-game-react/static/css/main.8662c8ad.css.map",
+    "main.98d8ab1c.js.map": "/chess-game-react/static/js/main.98d8ab1c.js.map",
+    "453.b6dfa29d.chunk.js.map": "/chess-game-react/static/js/453.b6dfa29d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8662c8ad.css",
+    "static/js/main.98d8ab1c.js"
+  ]
+}
